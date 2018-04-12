@@ -1,0 +1,1 @@
+1. Simple chart that deploys the Configmap in a namespace

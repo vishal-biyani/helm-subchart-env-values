@@ -1,0 +1,3 @@
+dependencies:
+  - name: child
+    version: 0.1.0
